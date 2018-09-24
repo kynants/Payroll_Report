@@ -1,4 +1,4 @@
-# Starting Out With C++: From Control Structures through Objects
+# Starting Out With C++: From Control Structures through Objects - *by Tony Gaddis*
 
 ## Chapter 5: Loops and Files
 
